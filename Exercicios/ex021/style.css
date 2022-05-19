@@ -1,0 +1,86 @@
+body{
+    background-color: rgba(0, 255, 255, 0.456);
+    margin: 3px;
+}
+h1{
+    background-color: rgba(24, 145, 145, 0.73);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(44, 38, 85);
+    border-radius: 3px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.801);
+
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.39);
+    padding: 4px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.801);
+
+}
+
+nav  > a{
+    text-decoration: none;
+
+}
+nav > a:hover{
+    text-decoration: underline;
+   
+}
+
+#pre {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 3px;
+}
+
+#pre {
+    margin-top: 15px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.801);
+}
+
+#INTRODUCAO {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 3px;
+}
+#INTRODUCAO{
+    margin-top: -10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+a{
+    color: white;
+}
+
+p{
+    padding: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 1.5px;
+    
+}
+
+
+h3{
+    background-color: rgba(0, 0, 0, 0.39);
+    text-align: center;
+    font-size: 1.4em;
+    border-radius: 3px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.801);
+}
+img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 35px;
+ box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.801);
+
+}
+
+footer{
+    background-color: rgba(0, 0, 255, 0.347);
+    text-align: center;
+    margin: 10px 0px ;
+    border-radius: 3px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.801);
+}
